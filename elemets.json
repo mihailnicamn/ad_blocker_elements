@@ -1,4 +1,6 @@
 [
     "#ez-cookie-dialog-wrapper",
-    ".fc-consent-root"
+    ".fc-consent-root",
+    ".sn-v-table",
+    ".snigel-cmp-framework"
 ]
